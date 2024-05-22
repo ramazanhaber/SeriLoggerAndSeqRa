@@ -1,0 +1,6 @@
+@SeriLoggerAndSeqRa_HostAddress = http://localhost:5145
+
+GET {{SeriLoggerAndSeqRa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

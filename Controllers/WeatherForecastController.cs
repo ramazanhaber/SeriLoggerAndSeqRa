@@ -20,6 +20,7 @@ namespace SeriLoggerAndSeqRa.Controllers
         {
             try
             {
+                //aa
                 _logger.LogInformation("request baþladý " + DateTime.UtcNow);
 
                 string deger = "0";
